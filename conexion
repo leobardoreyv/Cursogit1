@@ -1,0 +1,5 @@
+firebase.initializeApp({
+  apiKey: 'AIzaSyA1okqa4v0MhdGTHIXrzGVgODjxU0Dq71I',
+  authDomain: 'usuario-1238f.firebaseapp.com',
+  projectId: 'usuario-1238f'
+});
